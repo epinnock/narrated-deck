@@ -1,0 +1,16 @@
+{
+  "name": "narrated-deck",
+  "owner": {
+    "name": "epinnock",
+    "url": "https://github.com/epinnock"
+  },
+  "plugins": [
+    {
+      "name": "narrated-deck",
+      "source": ".",
+      "description": "Narrated HTML slide decks with Gemini TTS and a stitched MP4",
+      "version": "1.0.0"
+    }
+  ],
+  "description": "Narrated HTML slide decks with Google Gemini TTS narration and a stitched MP4, packaged as a Claude Code skill."
+}

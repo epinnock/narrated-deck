@@ -1,0 +1,11 @@
+{
+  "name": "narrated-deck",
+  "displayName": "Narrated Deck",
+  "description": "Turn a plan, roadmap, or report into a short narrated presentation: self-contained HTML slides with Google Gemini TTS narration, a stitched MP4, and a shareable Artifact link.",
+  "version": "1.0.0",
+  "author": { "name": "Ejiro Pinnock", "url": "https://github.com/epinnock" },
+  "homepage": "https://github.com/epinnock/narrated-deck",
+  "repository": "https://github.com/epinnock/narrated-deck",
+  "license": "MIT",
+  "keywords": ["slides", "presentation", "tts", "narration", "video", "gemini"]
+}

@@ -5,7 +5,8 @@ presentation: self-contained HTML slides with embedded Google Gemini TTS narrati
 1920×1080 MP4, and (inside Claude Code) a shareable Artifact link.
 
 - **Slides**: one HTML file, keyboard and click navigation, deep links, light and dark
-  themes, phone-width layout, a Play button that narrates and auto-advances.
+  themes, phone-width layout, a Play button that narrates and auto-advances, and a
+  0.5–4× narration speed slider.
 - **Narration**: Gemini 2.5 Pro TTS (or Flash / 3.1 Flash preview), 30 voices, steerable with
   a plain-English style prompt.
 - **Video**: Playwright screenshots stitched with ffmpeg, one segment per slide, cut to the

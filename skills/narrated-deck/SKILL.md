@@ -145,7 +145,9 @@ Do not paste the narration.
 - Body background is set from a token in the template; keep it, or the host theme bleeds
   through.
 - Deep links are `#slide-N`; `?clean` hides the chrome. Space toggles play, arrows navigate,
-  `◐` toggles theme.
+  `◐` toggles theme, and the speed slider (0.5–4×, `[` / `]` to step) sets narration
+  playback rate — remembered per viewer in `localStorage`, pitch-corrected where the
+  browser supports it. It affects only the HTML player; the MP4 is always 1×.
 - Play auto-advances on `ended`; a slide with no clip stops playback there. Narrate every
   slide or accept the stop.
 - `tts.py` forces IPv4 lookups because some hosts have broken IPv6 egress; harmless elsewhere.
